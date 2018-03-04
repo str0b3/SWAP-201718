@@ -2,7 +2,7 @@
 
 **Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad.**
 
-*En frameworks encontramos **Node.js** (https://nodejs.org/en/), un framework open source basado en JavaScript que se ejecuta en el lado del servidor.
+* En frameworks encontramos **Node.js** (https://nodejs.org/en/), un framework open source basado en JavaScript que se ejecuta en el lado del servidor.
 
 * Otra librería es **Akka** (https://akka.io/), basada en Java y Scala diseñada para aplicaciones distribuidas y relacionadas con la mensajería.
 
