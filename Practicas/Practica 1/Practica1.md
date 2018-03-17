@@ -1,8 +1,8 @@
-# Práctica 1
+#Práctica 1
 
 Integrantes: Rubén Calvo Villazán y Marta Arenas Martínez
 
-## Instalación en VirtualBox
+##Instalación en VirtualBox
 
 Para crear la máquina, primero se le dice que sistema operativo tiene (Linux). En mi caso, he dejado los tamaños de memoria y disco que venían por defecto. 
 
@@ -38,7 +38,7 @@ A continuación se muestra una captura con las máquinas comunicándose entre s�
 
 ![](./images/conexion-entre-maquinas.png)
 
-## Instalación en VMWare
+##Instalación en VMWare
 
  **Creamos las dos máquinas virtuales usando VMWare**
 
